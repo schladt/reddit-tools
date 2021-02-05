@@ -1,0 +1,14 @@
+# env
+/env
+
+# output 
+/output
+
+#python
+__*
+
+#vscode
+.vscode
+
+# settings
+settings.py

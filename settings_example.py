@@ -1,0 +1,7 @@
+APP_ID = ""
+APP_NAME = ""
+APP_SECRET = ""
+USER_ID = ""
+USER_PASS = ""
+
+TEST_ACCOUNT = ""
